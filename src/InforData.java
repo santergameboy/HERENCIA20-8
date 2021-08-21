@@ -1,3 +1,5 @@
+import java.util.Date;
+
 public class InforData {
      protected String nombre;
      protected String direccion;
@@ -11,6 +13,17 @@ public class InforData {
         this.setTelefono(telefono);
         this.setEmpleados(empleados);
         this.setNit(nit);
+    }
+
+    public InforData(int cantidad, String productos) {
+
+
+    }
+
+    public InforData(String nombre, String direccion, int telefono, Date fechacompra, int preciototal, int cantidad, String productos, int codigo) {
+    }
+
+    public InforData(Date fechasoporte, String motivo, String nombre, Date fechacompra, String productos, int codigo) {
     }
 
     public String getNombre() {

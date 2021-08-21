@@ -13,8 +13,23 @@ public class Proveedores extends InforData{
         this.setFecha(fecha);
         this.setCantidad(cantidad);
         this.setProductos(productos);
+        this.setCantidad(cantidad);
+        this.setProductos(productos);
 
     }
+
+    public Proveedores(int cantidad, String productos) {
+        super(cantidad,productos);
+    }
+
+    public Proveedores(String nombre, String direccion, int telefono, Date fechacompra, int preciototal, int cantidad, String productos, int codigo) {
+        super(nombre,direccion,telefono,fechacompra,preciototal,cantidad,productos,codigo);
+    }
+
+    public Proveedores(Date fechasoporte, String motivo, String nombre, Date fechacompra, String productos, int codigo) {
+        super(fechasoporte,motivo,nombre,fechacompra,productos,codigo);
+    }
+
 
     public List<Proveedores> getFabricantes() {
         return fabricantes;

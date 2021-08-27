@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58ed32c2-26c2-4aff-9324-897841975b79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/INFORDATA2/Catalogos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATA2/Catalogos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/INFORDATA2/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATA2/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/INFORDATA2/InforData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATA2/InforData.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/INFORDATA2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATA2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/INFORDATA2/Proveedores.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATA2/Proveedores.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/INFORDATA2/Soporte.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATA2/Soporte.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Catalogos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Catalogos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InforData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InforData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Proveedores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Proveedores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Soporte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Soporte.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +20,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1x0LuiruZBf8bLyGLno4S8EeR5p" />
   <component name="ProjectViewState">

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58ed32c2-26c2-4aff-9324-897841975b79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/interfaces/IReset.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFORDATA2/Catalogos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATA2/Catalogos.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/INFORDATA2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATA2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Catalogos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Catalogos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>

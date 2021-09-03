@@ -1,6 +1,8 @@
+import interfaces.IReset;
+
 import java.util.Date;
 
-public class Catalogos extends Proveedores {
+public class Catalogos extends Proveedores implements IReset {
     private String modelos;
     private int precios;
     private int codigo;
@@ -87,5 +89,10 @@ public class Catalogos extends Proveedores {
                 ", Definicion='" + definicion + '\'' +
                 ", Cantidad=" + cantidad +
                 ", Productos='" + productos + '\'' ;
+    }
+
+    @Override
+    public void reset() {
+        System.out.println("Reseteando ");
     }
 }

@@ -94,4 +94,9 @@ public class Cliente extends  Catalogos{
                 "Codigo= " + getCodigo()
                 ;
     }
+
+    @Override
+    public void estado() {
+        System.out.println("comprando cantidad producto del Catalogo :"+20);
+    }
 }

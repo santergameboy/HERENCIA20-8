@@ -14,7 +14,13 @@ public class Main {
             //System.out.println(BussinesTadeito);
            // System.out.println("----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------");
             //CATALOGO
-            Catalogos cat1= new Catalogos(10,"monitor","AX",100,123,1000,100,"1080p");
+            Catalogos cat1= new Catalogos(10, "monitor", "AX", 100, 123, 1000, 100, "1080p") {
+                @Override
+                public void estado() {
+
+                }
+            };
+
             //System.out.println(cat1);
             //System.out.println("----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------");
             //CLIENTES
@@ -49,6 +55,7 @@ public class Main {
 
 
         cat1.reset();
+        cliente1.estado();
 
 
     }

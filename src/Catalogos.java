@@ -2,7 +2,7 @@ import interfaces.IReset;
 
 import java.util.Date;
 
-public class Catalogos extends Proveedores implements IReset {
+public abstract class Catalogos extends Proveedores implements IReset {
     private String modelos;
     private int precios;
     private int codigo;
@@ -95,4 +95,5 @@ public class Catalogos extends Proveedores implements IReset {
     public void reset() {
         System.out.println("Reseteando ");
     }
+    public abstract void    estado();
 }
